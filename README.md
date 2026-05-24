@@ -9,7 +9,7 @@ A passionate Full-Stack Software Developer focused on building scalable backend 
 | **Backend** | Java (Spring Boot), Node.js (Express), Python, REST APIs |
 | **Frontend** | Angular, TypeScript, JavaScript, HTML5, CSS3 |
 | **Databases** | PL/SQL, PostgreSQL, MySQL, MongoDB |
-| **Platform & Automation** | Linux (Debian/XFCE), Git, Docker, n8n, Bash Scripting |
+| **Platform & Automation** | Kubernetes, Linux, Docker, n8n, Git, Bash Scripting |
 
 ## Current Focus & Projects
 
